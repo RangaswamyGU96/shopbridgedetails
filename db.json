@@ -1,13 +1,16 @@
-[
-  {
-    "id": 1,
-    "body": "some comment",
-    "postId": 1
-  },
-  {
-    "id": 2,
-    "body": "some comment",
-    "postId": 1
-  }
-]
- 
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "hello",
+      "description":"Hello world",
+      "price":"20"
+    },
+    {
+      "id": 2,
+      "name": "hello2",
+      "description":"Hello world2",
+      "price":"202"
+    }
+  ] 
+}
