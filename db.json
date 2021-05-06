@@ -2,8 +2,26 @@
   "products": [
     {
       "id": 1,
-      "name": "hello",
-      "description":"Hello world",
+      "name": "shoe",
+      "description":"about shoes",
+      "price":"20"
+    }
+     {
+      "id": 2,
+      "name": "Shirt",
+      "description":"About shirt",
+      "price":"20"
+    }
+     {
+      "id": 3,
+      "name": "Pen",
+      "description":"About pen",
+      "price":"20"
+    }
+     {
+      "id": 4,
+      "name": "Book",
+      "description":"About Book",
       "price":"20"
     }
   ] 
